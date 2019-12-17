@@ -45,7 +45,7 @@
     color: #008080;
     font-weight: bold;
   } 
-  }
+  
 
 
   footer{
@@ -59,4 +59,9 @@
       color: white;
       border-top: 8px solid #008080;        
   }
+
+.btn-git {
+  background-color: black;
+  color: white
+}
  
